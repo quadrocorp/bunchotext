@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.svg" alt="bunchotext logo" height="120">
+  <img src="./docs/icon.svg" alt="bunchotext logo" height="120">
 </p>
 
 <p align="center">
